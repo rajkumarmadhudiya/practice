@@ -1,5 +1,5 @@
 # practice
-This is first repository
+This is first repo
 <br>
 My self 
 <hr>
