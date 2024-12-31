@@ -1,7 +1,7 @@
 # practice
 This is first repository
 <br>
-My self Computer
+My self 
 <hr>
 Now my self Rajkumar
 <br>
