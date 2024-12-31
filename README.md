@@ -12,4 +12,4 @@ Now my self Rajkumar
 <del>123</del>
 <br>
 a<sup>2</sup>
-b
+b<sub>2</sub>
