@@ -9,7 +9,6 @@ Now my self Rajkumar
 <br>
 <hr>
 123
-<br>
 <del>123</del>
 <br>
 a<sup>2</sup>
