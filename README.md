@@ -13,5 +13,4 @@ Now my self Rajkumar
 <br>
 a<sup>2</sup>
 b<sub>2</sub>
-<hr>
 jawekebyiuag
