@@ -2,7 +2,6 @@
 This is first repo
 <br>
 My self 
-<hr>
 Now my self Rajkumar
 <br>
 <b> commit the repository</b>
